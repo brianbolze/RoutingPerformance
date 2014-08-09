@@ -1,6 +1,4 @@
 RoutingPerformance
---Brian Bolze
---October 25 2013
 ==================
 
 Summary
@@ -17,6 +15,10 @@ The NetworkGraph class has a few more methods. The addConnection method takes in
 
 Notes
 ================
+Author: Brian Bolze
+Date: October 25 2013
+
+
 Originally written as an assignment for a class taught at the University of New South Wales.
 -- Computer Science 3331: Computer Networks and Applications
 -- Professor Sanjay Jha
